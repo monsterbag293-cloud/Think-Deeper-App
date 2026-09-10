@@ -1,0 +1,6 @@
+{
+  "name": "Think Deeper",
+  "description": "Agentic AI with reasoning chains, code tools, live server sync, and automations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
