@@ -1,7 +1,7 @@
 # 🧠 Think Deeper
 
 <p align="center">
-  <img src="docs/icon.png" width="128" alt="Think Deeper icon">
+  <img src="https://github.com/monsterbag293-cloud/Think-Deeper-App/blob/main/icon" width="128" alt="Think Deeper icon">
 </p>
 
 <h3 align="center">Think harder. Reason deeper. Get better answers.</h3>
